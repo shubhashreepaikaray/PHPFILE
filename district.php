@@ -8,10 +8,10 @@
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <title>Document</title>
     <style>
-        body {
-            background-color: rgb(80, 106, 139);
+    body {
+        background-color: rgb(80, 106, 139);
 
-        }
+    }
     </style>
 </head>
 
